@@ -1,0 +1,6 @@
+{
+    "token": "Token Here",
+    "clientId": "Client ID Here",
+    "guildId": "Guild ID Here",
+    "updateCommand": true
+}
